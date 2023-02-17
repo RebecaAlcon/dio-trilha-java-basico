@@ -22,7 +22,7 @@ Scanner scanner = new Scanner (System.in);
      double altura = scanner.nextDouble();
 
 
-System.out.println("Ola, me chamo " + nome + "" + "sobrenome");
+System.out.println("Ola, me chamo " + nome + " " + sobrenome);
 System.out.println("Tenho " + idade + " anos");
 System.out.println("Minha altura é: " + altura + " cm");
 
